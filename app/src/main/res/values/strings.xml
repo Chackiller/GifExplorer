@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GifExplorer</string>
+    <string name="table_or_column">Table or Column view</string>
+</resources>
